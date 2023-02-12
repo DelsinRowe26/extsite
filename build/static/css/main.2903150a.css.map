@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.2903150a.css","mappings":"AAEA,KACI,qBAAwB,CACxB,UACJ,CAEA,QACI,qBAAsB,CACtB,YAEJ","sources":["css/style.css"],"sourcesContent":["\r\n\r\nbody {\r\n    background-color:#009988;\r\n    color: #fff;\r\n}\r\n\r\n.header {\r\n    background-color: #096;\r\n    padding: 20px;\r\n\r\n}"],"names":[],"sourceRoot":""}

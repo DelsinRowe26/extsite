@@ -1,5 +1,3 @@
-
-
 body {
     background-color:#009988;
     color: #fff;
@@ -10,3 +8,36 @@ body {
     padding: 20px;
 
 }
+
+.menu_button {
+    display: inline-block;
+    position: absolute;
+    
+    list-style-type: none;
+    width: 100px;
+    height: 30px;
+    padding: 0;
+    margin: 0;
+    background-color: aquamarine;
+    color: #fff;
+}
+
+.menu_button:hover {
+    background-color: chartreuse;
+    color: black;
+}
+
+.header li{
+    float: left;
+    position: relative;
+    height: 100%;
+}
+
+.header li {
+    display: block;
+    padding: 6px;
+    width: 100px;
+    color: #fff;
+    text-decoration: none;
+    text-align: center;
+  }
